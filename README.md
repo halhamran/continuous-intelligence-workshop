@@ -1,4 +1,4 @@
-hello GOTO amsterdam 2
+hello GOTO amsterdam 2s
 
 # Continuous Intelligence and CD4ML Workshop
 
